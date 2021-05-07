@@ -21,5 +21,10 @@ namespace github1
         {
             MessageBox.Show("Dobry den");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Otevírají hospody");
+        }
     }
 }
